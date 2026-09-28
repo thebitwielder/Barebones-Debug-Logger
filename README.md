@@ -93,3 +93,4 @@ I created BDL out of a need for a straightforward, thread-safe logging solution 
 std::cout isn't inherently thread-safe, leading to interleaved output in concurrent applications.
 Other libraries can be overly complex, requiring extensive configuration just to get basic logging operational.
 It was a fun project to build a minimal, yet functional, logging utility.
+## This is mostly a personal project, I wouldn't recommend it for production, Use at your own risk!
